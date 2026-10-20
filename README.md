@@ -105,3 +105,13 @@ npx vercel
 ```
 
 Or connect your GitHub repo to [vercel.com](https://vercel.com) for automatic deployments.
+
+## Работа с изменениями и безопасность
+
+Ветки задач, проверки CI, локальный Gitleaks и правила работы с секретами описаны в [CONTRIBUTING.md](CONTRIBUTING.md). Настройки внешних сервисов передаются через локальные env-файлы или secret-хранилище платформы деплоя.
+
+## Status
+
+Portfolio landing-page concept. Brand content, statistics and pricing are demonstration content.
+
+[Live demo](https://fit-zone-rust.vercel.app)
