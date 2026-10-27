@@ -1,10 +1,10 @@
 # FitZone — Premium Fitness Gym Landing Page
 
-A complete, production-ready Next.js landing page for a premium fitness gym brand. Built with Next.js 14, TypeScript, and Tailwind CSS.
+A complete, production-ready Next.js landing page for a premium fitness gym brand. Built with Next.js 15, TypeScript, and Tailwind CSS.
 
 ## Tech Stack
 
-- **Framework**: Next.js 14 (App Router)
+- **Framework**: Next.js 15 (App Router)
 - **Language**: TypeScript
 - **Styling**: Tailwind CSS
 - **Icons**: Lucide React
@@ -14,7 +14,7 @@ A complete, production-ready Next.js landing page for a premium fitness gym bran
 ## Getting Started
 
 ### Prerequisites
-- Node.js 18+ 
+- Node.js 22+ (also used by CI; patched Sharp requires a newer runtime than Node 18)
 - npm or yarn
 
 ### Installation
